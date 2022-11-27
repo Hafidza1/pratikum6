@@ -193,3 +193,18 @@ elif fid.lower() == 'l':
 
 ![gambar](gambar/lab6.13.png)
 
+13. membuat syntax untuk menghentikan perulangan
+```
+elif b.lower() == 'k':
+        break
+```
+14.kemudian kita akan menginputkan 'k ' maka secara otomatis program yang kita inputan tadi akan langsung berhenti
+
+![gambar](gambar/lab6.14.png)
+
+15. membuat syntax apabila memilih pilihan yang tidak ada di menu pilihan
+```
+else:
+        print("Pilih menu yang tersedia")
+ ```
+
